@@ -236,7 +236,7 @@ function sphereNormal(sphere, pos) {
   return Vector.unitVector(Vector.subtract(pos, sphere.point));
 }
 
-
+//gets the color from each ray-hitting surface
 function surface(ray, scene, object, pointAtTime, normal, depth) {
   var b = object.color;
   var c = Vector.ZERO;

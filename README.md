@@ -7,3 +7,8 @@ The tutorial doesn't incorporate a checkered floor like the classic Whitted exam
 
 ### Instructions:
 Simply run the index.html in any HTML5 supporting browser
+
+### Screenshots:
+![ScreenShot1](/Screenshots/ScreenShot1.png?raw=true)
+
+![ScreenShot3](/Screenshots/ScreenShot3.png?raw=true)
